@@ -1,7 +1,6 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
 import Auto from '../images/Auto.jpeg';
-import RogfreeImage from '../images/RogfreeImage.png';
 import Emotion from '../images/Emotion.jpeg';
 import Weather from '../images/Weather.png';
 
