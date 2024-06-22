@@ -531,6 +531,17 @@ b{
   background-color: #431f47; /* Hover color to match the border */
   transform: scale(1.05); /* Slight scale-up effect on hover */
 }
+.custom-cursor {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  background-color: #9067C6; /* Change this to your preferred cursor color */
+  border-radius: 50%;
+  pointer-events: none;
+  transition: transform 0.1s ease;
+  transform: translate(-50%, -50%);
+  z-index: 9999; /* Ensure it is above other elements */
+}
 
 /* Resume */
 
