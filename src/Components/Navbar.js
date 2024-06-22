@@ -53,6 +53,8 @@ const Nav = () => {
                 <li onClick={hideMenu}><Link to="/"><AiOutlineHome /> Home</Link></li>
                 <li onClick={hideMenu}><Link to="/About"><BsPerson /> About</Link></li>
                 <li onClick={hideMenu}><Link to="/Project"><BsCodeSlash /> Projects</Link></li>
+                <li onClick={hideMenu}><Link to="/Certifications"><BsCodeSlash /> Certifications</Link></li>
+
                 <li onClick={hideMenu}>
                     <a href={googleDriveUrl} target='_blank' rel="noopener noreferrer" download="Devansh's Resume">
                         <BsDownload /> Download CV
