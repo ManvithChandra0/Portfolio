@@ -7,7 +7,7 @@ import { BsDownload } from "react-icons/bs";
 
 const Nav = () => {
     const [navbarBlur, setNavbarBlur] = useState(false);
-    const googleDriveUrl = 'https://drive.google.com/file/d/1xI3AZHBsZGhkYsnhH3wrMOYP-bkvZRCA/view'; // Replace with your Google Drive file ID
+    const googleDriveUrl = 'https://drive.google.com/file/d/1rqh-gs2LGO6yQC5s38jl376J05zy7-je/view?usp=drive_link';  
 
     function scrollHandler() {
         if (window.scrollY >= 20) {
