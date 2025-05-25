@@ -21,16 +21,18 @@ const Certifications = () => {
           certificationName=" EX183 : Red Hat Certified Enterprise Application Developer" 
           certificationLink="https://rhtapps.redhat.com/verify?certId=230-170-102"
         />
-        /*<CertificationBox 
+        {/* 
+        <CertificationBox 
           certificationPhoto={Cert3} 
-          certificationName=" Microsoft Certified: Azure AI Fundamentals" 
+          certificationName="Microsoft Certified: Azure AI Fundamentals" 
           certificationLink="https://www.credly.com/badges/86662bf8-b091-4755-8c94-a2a4613efd3d"
         /> 
         <CertificationBox 
           certificationPhoto={Cert4} 
-          certificationName=" Microsoft Certified: Azure Fundamentals" 
+          certificationName="Microsoft Certified: Azure Fundamentals" 
           certificationLink="https://www.credly.com/earner/earned/badge/355b4d46-bb45-4b3b-be78-262a3ce6465e"
-        /> */
+        /> 
+        */}
       </div>
     </div>
   );
