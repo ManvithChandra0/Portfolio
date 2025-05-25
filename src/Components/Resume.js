@@ -7,7 +7,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/b
 
 const Resume = () => {
   const [wid, setWid] = useState(window.innerWidth);
-  const pdfUrl = 'https://drive.google.com/uc?export=download&id=1xI3AZHBsZGhkYsnhH3wrMOYP-bkvZRCA'; // Replace with your actual file ID
+  const pdfUrl = 'https://drive.google.com/file/d/1rqh-gs2LGO6yQC5s38jl376J05zy7-je/view?usp=drive_link';
 
   useEffect(() => {
     const handleResize = () => {
