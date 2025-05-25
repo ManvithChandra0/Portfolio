@@ -20,7 +20,7 @@ const About = () => {
 
             I am also skilled in full-stack development, machine learning, and deep learning, with a positive attitude, strong team spirit, and leadership capabilities.<br /><br />
             Currently, I am working on a few projects using the <b>MERN</b> stack and conducting research in identifying grape leaf diseases using deep learning algorithms.<br /><br />
-            Presently, I am pursuing a B.Tech. in Computer Science and Engineering with Honors at K L University, where I have maintained a GPA of 9.54/10.0.<br />
+            Presently, I am pursuing a B.Tech. in Computer Science and Engineering with Honors at K L University, where I have maintained a GPA of 9.5/10.0.<br />
           </p>
         </div>
 
